@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Rakibul Hasan Joy
 #### I am a Flutter Developer
-![I am a Flutter Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am Rakibul Hasan Joy, a Flutter Developer, I use flutter for android and IOS mobile application development. My goal is to work closely with clients to understand their needs.
 High performance and top-notch quality are guaranteed.
 
