@@ -37,11 +37,16 @@ prices and timeframe that are mentioned on the packages are just estimates. Plea
 I am at your service, feel free to contact me I have amazing offers for you.
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  HTML / CSS / Javascript / PHP / MySQL / Flutter / JAVA 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Upwork 
+- 🌱 I’m currently learning Javascript 
+- 👯 I’m looking to collaborate on Github 
+- 🤔 I’m looking for help with Youtube 
+- 💬 Ask me about Flutter App Development 
+- 📫 How to reach me: rhj281@gmail.com 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rakibulhasa1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rakibulhasan.joy.52/)  
 
 
